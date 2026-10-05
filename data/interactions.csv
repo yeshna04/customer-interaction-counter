@@ -1,0 +1,16 @@
+interaction_id,customer_id,customer_name,interaction_type,interaction_date
+1,C001,Aarav Sharma,Call,2026-09-01
+2,C001,Aarav Sharma,Email,2026-09-03
+3,C001,Aarav Sharma,Meeting,2026-09-05
+4,C001,Aarav Sharma,Ticket,2026-09-10
+5,C002,Beena Singh,Call,2026-09-02
+6,C002,Beena Singh,Email,2026-09-06
+7,C003,Chahat Verma,Call,2026-09-04
+8,C003,Chahat Verma,Ticket,2026-09-08
+9,C003,Chahat Verma,Email,2026-09-11
+10,C004,Dev Kumar,Meeting,2026-09-03
+11,C005,Esha Patel,Call,2026-09-01
+12,C005,Esha Patel,Email,2026-09-02
+13,C005,Esha Patel,Call,2026-09-07
+14,C005,Esha Patel,Meeting,2026-09-12
+15,C006,Rohan Mehta,Email,2026-09-05
